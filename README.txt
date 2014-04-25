@@ -1,7 +1,7 @@
 Completed programming challenges found on the internet
 
 01. Random Name Generator 
-Picks a name from a pre-determined set of names based on a random number between 1 - 10;
+Picks a name from a pre-determined set of names based on a random number between 1 - 10
 
 02. Fizz Buzz
 This is a popular challenge where the user provides a series of numbers (F B N). The game
@@ -9,3 +9,6 @@ starts counting from 1 up to N. Along the way if one of the numbers is divisible
 
 Example: 2 3 9
 1 F B F 5 FB 7 F B
+
+03. Temperature Converter
+A simple console program to convert temperatures between Celsius and Fahrenheit
