@@ -42,6 +42,8 @@ public class RandomNameGenerator {
 				exitLoop = true; // We can stop asking the user if they want a name generated now
 			}
 		}
+		
+		input.close(); // We are done with the scanner
 
 	}
 	
