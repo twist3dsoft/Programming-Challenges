@@ -9,8 +9,6 @@
  * Date: May 2, 2014
  * License: I don't care
  */
-import java.time.Clock;
-import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.Scanner;
