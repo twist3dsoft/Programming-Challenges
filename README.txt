@@ -12,3 +12,6 @@ Example: 2 3 9
 
 03. Temperature Converter
 A simple console program to convert temperatures between Celsius and Fahrenheit
+
+04. Age in Seconds
+Calculate how old the user is in seconds based on the birthdate that the user provides. This challenge makes use of Java's LocalDate and LocalTime.
